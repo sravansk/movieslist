@@ -12,3 +12,8 @@ Ramcharan movies
 3.magadheera
 4.Dhruva
 5.Rangasthalam
+
+6.Bahubali
+7.Kgf2
+8.Kantara
+9.pushpsa
